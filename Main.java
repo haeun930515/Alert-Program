@@ -8,10 +8,10 @@
         By stopwatch
         Your choice
     Step 1: Alert for usage (warning)
-    Step 2: Hide couple functions (Hide)
+    Step 2: Second warning (Open URL)
     Step 3: Block the computer (Block)
-    (Ex. block the internet/WIFI)
-    Programming Language used: your choice
+    
+   
 
 
 
